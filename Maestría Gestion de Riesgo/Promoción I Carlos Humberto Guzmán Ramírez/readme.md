@@ -1,9 +1,9 @@
-Tesis de maestría titulada: Estudio de la Vulnerabilidad en Colonia San Martín
-Sustentada por:Carlos Humberto Guzmán Ramírez
-Asesor: Nabil Kawas
-Coordinador de Maestría: Nabil Kawas
-Año de elaboración: 2007
-Area de estudio: Colonia San Martín, Tegucigalpa
+Tesis de maestría titulada: Estudio de la Vulnerabilidad en Colonia San Martín.
+Sustentada por:Carlos Humberto Guzmán Ramírez.
+Asesor: Nabil Kawas.
+Coordinador de Maestría: Nabil Kawas.
+Año de elaboración: 2007.
+Area de estudio: Colonia San Martín, Tegucigalpa.
 Abstrac/Resumen:Para el abordaje del problema, interesa 
 identificar las zonas de mayor riesgo en la ciudad Capital se utilizo como 
 referencia COPECO que publico estudios elaborados.
