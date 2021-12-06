@@ -16,3 +16,4 @@ pendiente) viviendas construidas empíricamente, mala calidad en material,
 desempleo, educación, salud, y el alto numero de personas que habitan por 
 vivienda aunando a la idiosincrasia de la población la vuelve vulnerable la 
 colonia .
+Palabras claves: Gestion de Riesgos, Vulnerabilidad, Copeco, IHCIT, Colonia San Martín
