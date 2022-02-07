@@ -7,6 +7,6 @@ Autor: <br/>
 Asesor: <br/>
 **Msc. Alejandro Galo Roldán** <br/>
 <br/>
-Terna Examinadora: 
-Fecha de Defensa: 
-Calificación: 
+Terna Examinadora: <br/><br/>
+Fecha de Defensa: <br/><br/>
+Calificación: <br/><br/>
